@@ -1,0 +1,144 @@
+{
+  "appInfo" : {
+    "build" : "203.7717.56.2031.7583922",
+    "buildDate" : "Tue, 27 Jul 2021 01:59:12 +0600",
+    "productCode" : "AI",
+    "generated" : "Fri, 13 Aug 2021 06:19:06 +0600",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o 11.0.10 11.0.10+0-b96-7249189"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1342177280,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "Android3",
+    "numberOfFileProviders" : 70,
+    "totalNumberOfFiles" : 80718,
+    "totalNumberOfUpToDateFiles" : 80716,
+    "times" : {
+      "totalUpdatingTime" : "24 s 691 ms",
+      "indexingTime" : "19 s 111 ms",
+      "pushPropertiesTime" : "247 ms",
+      "updatingStart" : "Fri, 13 Aug 2021 06:18:41 +0600",
+      "updatingEnd" : "Fri, 13 Aug 2021 06:19:06 +0600",
+      "wasInterrupted" : false
+    },
+    "numberOfIndexingThreads" : 3,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "textmate",
+      "partOfTotalIndexingTime" : "67,5%",
+      "partOfTotalContentLoadingTime" : "88,1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "2,76 kB",
+      "indexingSpeed" : "73,62 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Android3'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2,76 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100,0%"
+      } ]
+    }, {
+      "fileType" : "JAVA",
+      "partOfTotalIndexingTime" : "32,5%",
+      "partOfTotalContentLoadingTime" : "11,9%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "868 B",
+      "indexingSpeed" : "48,12 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Android3.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "868 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100,0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "38,2%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "2,76 kB",
+      "indexingSpeed" : "130,14 kB/s"
+    }, {
+      "indexId" : "android.ndk.jni.nativemethodindex",
+      "partOfTotalIndexingTime" : "32,5%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "868 B",
+      "indexingSpeed" : "48,12 kB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "17,3%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "2,76 kB",
+      "indexingSpeed" : "286,84 kB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "11,8%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "2,76 kB",
+      "indexingSpeed" : "419,8 kB/s"
+    }, {
+      "indexId" : "filetypes",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "2,76 kB",
+      "indexingSpeed" : "32,2 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'Android3.app'",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "19 s 28 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "868 B",
+        "partOfTotalIndexingTime" : "100,0%",
+        "partOfTotalContentLoadingTime" : "100,0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "android.ndk.jni.nativemethodindex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "100,0%"
+      } ],
+      "fastIndexers" : [ ]
+    }, {
+      "providerName" : "Module 'Android3'",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "63 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "textmate",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2,76 kB",
+        "partOfTotalIndexingTime" : "100,0%",
+        "partOfTotalContentLoadingTime" : "100,0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "TodoIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "56,6%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "25,7%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "17,5%"
+      } ],
+      "fastIndexers" : [ "filetypes" ]
+    } ]
+  }
+}

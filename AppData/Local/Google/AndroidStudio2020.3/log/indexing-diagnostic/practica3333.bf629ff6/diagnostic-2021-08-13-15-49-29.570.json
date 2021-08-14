@@ -1,0 +1,390 @@
+{
+  "appInfo" : {
+    "build" : "203.7717.56.2031.7583922",
+    "buildDate" : "Tue, 27 Jul 2021 01:59:12 +0600",
+    "productCode" : "AI",
+    "generated" : "Fri, 13 Aug 2021 15:49:29 +0600",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o 11.0.10 11.0.10+0-b96-7249189"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1342177280,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "practica 3333",
+    "numberOfFileProviders" : 64,
+    "totalNumberOfFiles" : 80084,
+    "totalNumberOfUpToDateFiles" : 80055,
+    "times" : {
+      "totalUpdatingTime" : "544 ms",
+      "indexingTime" : "103 ms",
+      "pushPropertiesTime" : "39 ms",
+      "updatingStart" : "Fri, 13 Aug 2021 15:49:29 +0600",
+      "updatingEnd" : "Fri, 13 Aug 2021 15:49:29 +0600",
+      "wasInterrupted" : false
+    },
+    "numberOfIndexingThreads" : 3,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Groovy",
+      "partOfTotalIndexingTime" : "63,3%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "1,8 kB",
+      "indexingSpeed" : "25,66 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'practica_3333.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1,11 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "92,1%"
+      }, {
+        "providerName" : "Module 'practica_3333'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "689 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "7,9%"
+      } ]
+    }, {
+      "fileType" : "JAVA",
+      "partOfTotalIndexingTime" : "17,6%",
+      "partOfTotalContentLoadingTime" : "2,4%",
+      "totalNumberOfFiles" : 7,
+      "totalFilesSize" : "5,14 kB",
+      "indexingSpeed" : "263,79 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'practica_3333.app'",
+        "numberOfFiles" : 7,
+        "totalFilesSize" : "5,14 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100,0%"
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "13,5%",
+      "partOfTotalContentLoadingTime" : "41,0%",
+      "totalNumberOfFiles" : 11,
+      "totalFilesSize" : "12,66 kB",
+      "indexingSpeed" : "846,4 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'practica_3333.app'",
+        "numberOfFiles" : 11,
+        "totalFilesSize" : "12,66 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100,0%"
+      } ]
+    }, {
+      "fileType" : "Shell Script",
+      "partOfTotalIndexingTime" : "2,1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "5,3 kB",
+      "indexingSpeed" : "2,32 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'practica_3333'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5,3 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100,0%"
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalIndexingTime" : "1,7%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "1,71 kB",
+      "indexingSpeed" : "889,51 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'practica_3333'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1,71 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100,0%"
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalIndexingTime" : "1,3%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "2,26 kB",
+      "indexingSpeed" : "1,58 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'practica_3333'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2,26 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100,0%"
+      } ]
+    }, {
+      "fileType" : "Shrinker Config File",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "53,0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "770 B",
+      "indexingSpeed" : "1,92 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'practica_3333.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "770 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100,0%"
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "1,8%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "246 B",
+      "indexingSpeed" : "1,67 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'practica_3333.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "52,6%"
+      }, {
+        "providerName" : "Module 'practica_3333'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "240 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "47,4%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "41,7%",
+      "totalNumberOfFiles" : 29,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "29,89 kB",
+      "indexingSpeed" : "646,87 kB/s"
+    }, {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "31,3%",
+      "totalNumberOfFiles" : 24,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "21,32 kB",
+      "indexingSpeed" : "615,55 kB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "7,0%",
+      "totalNumberOfFiles" : 29,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "29,89 kB",
+      "indexingSpeed" : "3,84 MB/s"
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "6,5%",
+      "totalNumberOfFiles" : 29,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "29,89 kB",
+      "indexingSpeed" : "4,15 MB/s"
+    }, {
+      "indexId" : "android.ndk.jni.nativemethodindex",
+      "partOfTotalIndexingTime" : "5,2%",
+      "totalNumberOfFiles" : 7,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "5,14 kB",
+      "indexingSpeed" : "891,43 kB/s"
+    }, {
+      "indexId" : "java.null.method.argument",
+      "partOfTotalIndexingTime" : "2,9%",
+      "totalNumberOfFiles" : 7,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "5,14 kB",
+      "indexingSpeed" : "1,61 MB/s"
+    }, {
+      "indexId" : "BindingXmlIndex",
+      "partOfTotalIndexingTime" : "2,1%",
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1,69 kB",
+      "indexingSpeed" : "720,8 kB/s"
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : "1,0%",
+      "totalNumberOfFiles" : 11,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "12,66 kB",
+      "indexingSpeed" : "10,93 MB/s"
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 11,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "12,66 kB",
+      "indexingSpeed" : "15,24 MB/s"
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 11,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "12,66 kB",
+      "indexingSpeed" : "27,02 MB/s"
+    }, {
+      "indexId" : "java.fun.expression",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 7,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "5,14 kB",
+      "indexingSpeed" : "14,16 MB/s"
+    }, {
+      "indexId" : "java.binary.plus.expression",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 7,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "5,14 kB",
+      "indexingSpeed" : "14,18 MB/s"
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 11,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "12,66 kB",
+      "indexingSpeed" : "63,82 MB/s"
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 11,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "12,66 kB",
+      "indexingSpeed" : "80,13 MB/s"
+    }, {
+      "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "748 B",
+      "indexingSpeed" : "6,65 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'practica_3333.app'",
+      "totalNumberOfFiles" : 21,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "96 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "Groovy",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1,11 kB",
+        "partOfTotalIndexingTime" : "64,9%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 7,
+        "totalFilesSize" : "5,14 kB",
+        "partOfTotalIndexingTime" : "19,6%",
+        "partOfTotalContentLoadingTime" : "2,4%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 11,
+        "totalFilesSize" : "12,66 kB",
+        "partOfTotalIndexingTime" : "15,0%",
+        "partOfTotalContentLoadingTime" : "42,0%"
+      }, {
+        "fileType" : "Shrinker Config File",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "770 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "54,2%"
+      }, {
+        "fileType" : "GitIgnore file",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "1,3%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 21,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "45,0%"
+      }, {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 19,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "29,6%"
+      }, {
+        "indexId" : "TodoIndex",
+        "numberOfFiles" : 21,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "6,6%"
+      }, {
+        "indexId" : "android.ndk.jni.nativemethodindex",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5,8%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 21,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3,7%"
+      }, {
+        "indexId" : "java.null.method.argument",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3,2%"
+      }, {
+        "indexId" : "BindingXmlIndex",
+        "numberOfFiles" : 2,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2,4%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 11,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1,2%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "java.binary.plus.expression", "java.fun.expression", "xmlProperties" ]
+    }, {
+      "providerName" : "Module 'practica_3333'",
+      "totalNumberOfFiles" : 8,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "7 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "Groovy",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "689 B",
+        "partOfTotalIndexingTime" : "49,3%",
+        "partOfTotalContentLoadingTime" : "4,3%"
+      }, {
+        "fileType" : "Shell Script",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5,3 kB",
+        "partOfTotalIndexingTime" : "20,3%",
+        "partOfTotalContentLoadingTime" : "31,5%"
+      }, {
+        "fileType" : "Properties",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1,71 kB",
+        "partOfTotalIndexingTime" : "17,1%",
+        "partOfTotalContentLoadingTime" : "30,8%"
+      }, {
+        "fileType" : "textmate",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2,26 kB",
+        "partOfTotalIndexingTime" : "12,7%",
+        "partOfTotalContentLoadingTime" : "11,3%"
+      }, {
+        "fileType" : "GitIgnore file",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "240 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "22,1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "46,1%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "36,3%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "12,2%"
+      }, {
+        "indexId" : "TodoIndex",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5,4%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}
